@@ -1,0 +1,3 @@
+time,severity,category,src,dst,detail
+2026-11-15 17:15:14,HIGH,unauthorized-advertisement,172.18.0.1,172.18.0.2,"browse packet from untrusted host; payload=b'0 3 ipp://172.18.0.1:8632/printers/EvilPrinter ""LabRoom"" ""Discovery PoC Printer"" ""Evil Printer 1.0""'"
+2026-11-15 17:15:14,CRITICAL,victim-callback,172.18.0.2,172.18.0.1,connected back to advertised printer 172.18.0.1:8632 (advertised by 172.18.0.1)

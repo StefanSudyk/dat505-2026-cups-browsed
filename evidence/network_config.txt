@@ -1,0 +1,17 @@
+=== Lab network (Docker bridge) ===
+    inet 172.18.0.1/16 brd 172.18.255.255 scope global br-b831db987c3d
+
+=== Victim listener (UDP 631) ===
+UNCONN 0      0            0.0.0.0:631       0.0.0.0:*    users:(("docker-proxy",pid=73255,fd=8))
+UNCONN 0      0               [::]:631          [::]:*    users:(("docker-proxy",pid=73262,fd=8))
+
+=== Virtual printer (TCP 8632) ===
+LISTEN 0      4096         0.0.0.0:8632      0.0.0.0:*    users:(("ippeveprinter",pid=98121,fd=6))
+LISTEN 0      4096            [::]:8632         [::]:*    users:(("ippeveprinter",pid=98121,fd=7))
+
+=== Container ===
+environment-cups-1 vulhub/cups-browsed:2.0.1 Up 50 minutes
+
+=== cups-browsed config (Browse*) ===
+BrowseRemoteProtocols dnssd cups
+BrowseLocalProtocols cups

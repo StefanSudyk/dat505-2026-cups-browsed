@@ -1,0 +1,124 @@
+Using spool directory "/tmp/ippeveprinter.486637".
+Ignored Avahi state 101.
+printer-uri-supported="ipp://kali:8632/ipp/print","ipps://kali:8632/ipp/print"
+printer-uuid="urn:uuid:2d0e48cb-31c2-331b-6909-82c32dd4c746"
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2
+Accepted connection from 172.18.0.2
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 POST /printers/EvilPrinter
+172.18.0.2 Get-Printer-Attributes client-error-not-found (printer-uri ipp://172.18.0.1:8632/printers/EvilPrinter not found.)
+172.18.0.2 OK
+172.18.0.2 Client closed connection.
+Closing connection from 172.18.0.2

